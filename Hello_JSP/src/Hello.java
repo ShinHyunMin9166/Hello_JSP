@@ -1,4 +1,5 @@
 
+
 public class Hello {
 
 	public static void main(String[] args) {
@@ -11,7 +12,7 @@ public class Hello {
 		// 0215238:origin/master edit by Shin
 		System.out.println("GitHub edit");
 		
-		
+
 		//031524:local/master edit by Shin
 		System.out.println("local edit 1234");
 		//031524:end
