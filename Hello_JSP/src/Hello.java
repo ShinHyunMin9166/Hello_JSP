@@ -17,6 +17,9 @@ public class Hello {
 		System.out.println("local edit 1234");
 		//031524:end
 		
+		// 0278944:pull by Shin
+		System.out.println("GitHub edit 4567891");
+		// 0278944 end
 	}
 
 }
