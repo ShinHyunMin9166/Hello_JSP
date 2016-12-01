@@ -17,6 +17,10 @@ public class Hello {
 		System.out.println("local edit 1234");
 		//031524:end
 		
+		// 023659:hotfix edit by Shin
+		System.out.println("불휘, 지영 지각하지마!");
+		// 023659:end
+		
 	}
 
 }
